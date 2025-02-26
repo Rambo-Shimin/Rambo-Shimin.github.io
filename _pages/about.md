@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Department of Industrial and Systems Engineering at the Hong Kong Polytechnic University. Prior to PolyU, I obtained my Doctor of Mechanical Engineering at Donghua University from 2016 to 2022, advised by Prof. Jingsong Bao.
+I am a postdoctoral researcher in the Department of Industrial and Systems Engineering at <span style="color:#3399CC;">The Hong Kong Polytechnic University</span>. Prior to PolyU, I obtained my <span style="color:#000000;">Doctor of Mechanical Engineering</span> at <span style="color:#3399CC;">Donghua University</span> from 2016 to 2022, advised by <span style="color:#3399CC;">Prof. Jingsong Bao</span>.
 
-My research interests include digital twin (DT) driven machining processes, bionic digital manufacturing, and smart manufacturing. Since 2019, I have been exploring the theory, technology, and applications of digital twins in the field of machining, building a strong foundation in both theory and practice.
+My research interests include <span style="color:#000000;">Digital Twin (DT) driven machining processes</span>, <span style="color:#000000;">bionic digital manufacturing, and smart manufacturing</span>. Since 2019, I have been exploring the theory, technology, and applications of digital twins in the field of machining, building a strong foundation in both theory and practice.
 
-I have participated in several key projects, including those funded by the Ministry of Industry and Information Technology's Intelligent Manufacturing Special Project, the Shanghai Science and Technology Commission, and the Doctoral Innovation Fund. I am also the principal investigator of a Youth Project funded by the Guangdong Provincial Joint Fund. 
+I have participated in several key projects, including those funded by <span style="color:#000000;">the Ministry of Industry and Information Technology's Intelligent Manufacturing Special Project</span>, <span style="color:#000000;">the Shanghai Science and Technology Commission</span>, and <span style="color:#000000;">the Doctoral Innovation Fund</span>. I am also the principal investigator of a Youth Project funded by the <span style="color:#000000;">Guangdong Provincial Joint Fund</span>. 
 
-I have published over 30 papers, including 10 first-author papers in SCI journals, 5 corresponding author papers, and 5 papers selected as ESI Highly Cited Papers. Additionally, I have filed more than 10 patents, with 9 granted.
+I have published over <span style="color:#000000;">30 papers</span>, including <span style="color:#000000;">10 first-author papers</span> in SCI journals, <span style="color:#000000;">5 corresponding author papers</span>, and <span style="color:#000000;">5 papers</span> selected as <span style="color:#F77B00;">**ESI Highly Cited Papers**</span>. Additionally, I have filed more than <span style="color:#000000;">10 patents</span>, with <span style="color:#000000;">9 granted</span>.
 
-I have served as a session organizer and chair for the 3rd International Conference on Digital Twins, as well as a member of the first executive committee of the Digital Twin Young Scholars Committee (China). I have been invited to give keynote speeches at prestigious conferences such as IMCC 2023 and DigiTwin 2022. I also serve as a reviewer for numerous international journals, including IEEE TII, IEEE SMC, JIM, TRJ, IJCIM, JED, SR, ES, and VR&IH.
+I have served as a <span style="color:#000000;">session organizer and chair</span> for the 3rd International Conference on Digital Twins, as well as a member of the first executive committee of the Digital Twin Young Scholars Committee (China). I have been invited to give <span style="color:#000000;">keynote speeches</span> at prestigious conferences such as IMCC 2023 and DigiTwin 2022. I also serve as a <span style="color:#000000;">reviewer</span> for numerous international journals, including <span style="color:#000000;">IEEE TII, IEEE SMC, JIM, TRJ, IJCIM, JED, SR, ES, and VR&IH</span>.
 
 <br>
 
@@ -24,29 +24,29 @@ I have served as a session organizer and chair for the 3rd International Confere
 
 - **Postdoctoral Researcher, Hong Kong Polytechnic University** (2022-present)  
   - Department: Industrial and Systems Engineering  
-  - Supervisor: Professor Zheng Pai
+  - Supervisor: <span style="color:#3399CC;">Prof. Pai Zheng</span>
 
 - **Ph.D. of Engineering, Donghua University** (2016-2022)  
   - Major: Mechanical Engineering  
-  - Supervisor: Professor Bao Jinsong  
+  - Supervisor: <span style="color:#3399CC;">Prof. Jinsong Bao</span>  
 
 - **Bachelor of Engineering, Changzhou University** (2012-2016)  
   - Major: Mechanical Design, Manufacturing, and Automation  
-  - Supervisor: Professor Yu Zhuqing  
+  - Supervisor: <span style="color:#3399CC;">Prof. Zhuqing Yu</span>
 
 <br>
 
 <span style="color:#043361;">Honors</span>
 ======
 
-- Outstanding Graduate, Donghua University (March 2023)  
-- Tang Xiangqian Social Scholarship (November 2021)  
-- Excellent Student Award, 2020-2021 Academic Year (November 2021)  
-- Jinjiang Second-Class Scholarship (November 2020)  
-- CSC National Scholarship for Overseas Study, New Zealand, Joint Ph.D. Program (August 2020, program canceled due to the pandemic)  
-- Third Prize, 14th Challenge Cup Extracurricular Academic Competition, National Level (2015, Team Leader, First Place in Team Ranking)  
-- National Inspirational Scholarship (2015)  
-- National Inspirational Scholarship (2013)
+- **Outstanding Graduate**, Donghua University (March 2023)  
+- **Tang Xiangqian Social Scholarship** (November 2021)  
+- **Excellent Student Award** (November 2021)  
+- **Jinjiang Second-Class Scholarship** (November 2020)  
+- **CSC National Scholarship for Overseas Study**, New Zealand, Joint Ph.D. Program (August 2020, program canceled due to the pandemic)  
+- **Third Prize, 14th Challenge Cup Extracurricular Academic Competition**, National Level (2015, Team Leader, First Place in Team Ranking)  
+- **National Inspirational Scholarship** (2015)  
+- **National Inspirational Scholarship** (2013)
 
 <br>
 
@@ -71,32 +71,32 @@ I have served as a session organizer and chair for the 3rd International Confere
 
 <span style="color:#043361;">Journal Articles</span>
 ------
-- **Liu S**, Bao J, Lu Y, et al. Digital twin modeling method based on biomimicry for machining aerospace components[J]. Journal of Manufacturing Systems, 2021, 58: 180-195. (IF: 12.2; JCR Q1, ESI Highly Cited Paper)
--	**Liu S**, Bao J, Zheng P. A review of digital twin-driven machining: From digitization to intellectualization[J]. Journal of Manufacturing Systems, 2023, 67: 361-378. (IF: 12.2; JCR Q1, ESI Highly Cited Paper)
--	**Liu S**, Lu Y, Li J, et al. A blockchain-based interactive approach between digital twin-based manufacturing systems[J]. Computers & Industrial Engineering, 2023, 175: 108827. (IF: 6.7; JCR Q1, ESI Highly Cited Paper)
--	**Liu S**, Lu Y, Shen X, et al. A digital thread-driven distributed collaboration mechanism between digital twin manufacturing units[J]. Journal of Manufacturing Systems, 2023, 68: 145-159. (IF: 12.2; JCR Q1, ESI Highly Cited Paper)
--	**Liu S**, Zheng P, Bao J. Digital Twin-based manufacturing system: a survey based on a novel reference model[J]. Journal of Intelligent Manufacturing, 2023: 1-30. (IF: 5.9; JCR Q1)
--	**Liu S**, Zheng P, Xia L, et al. A dynamic updating method of digital twin knowledge model based on fused memorizing-forgetting model[J]. Advanced Engineering Informatics, 2023, 57: 102115. (IF: 8; JCR Q1)
--	**Liu S**, Sun Y, Zheng P, et al. Establishing a reliable mechanism model of the digital twin machining system: An adaptive evaluation network approach[J]. Journal of Manufacturing Systems, 2022, 62: 390-401. (IF: 12.2; JCR Q1)
--	**Liu S**, Lu Y, Zheng P, et al. Adaptive reconstruction of digital twins for machining systems: A transfer learning approach[J]. Robotics and Computer-Integrated Manufacturing, 2022, 78: 102390. (IF: 9.1; JCR Q1)
--	**Liu S**, Lu Y, Li J, et al. Multi-scale evolution mechanism and knowledge construction of a digital twin mimic model[J]. Robotics and Computer-Integrated Manufacturing, 2021, 71: 102123. (IF: 9.1; JCR Q1)
--	**Liu S**, Lu S, Li J, et al. Machining process-oriented monitoring method based on digital twin via augmented reality[J]. The International Journal of Advanced Manufacturing Technology, 2021, 113: 3491-3508. (IF: 2.9; JCR Q2)
--	Fu T, **Liu S***, Li P. Digital twin-driven smelting process management method for converter steelmaking[J]. Journal of Intelligent Manufacturing, 2024: 1-17. (IF: 5.9; JCR Q1)
--	Zheng H, **Liu S***, Zhang H, et al. Visual-triggered contextual guidance for lithium battery disassembly: a multi-modal event knowledge graph approach[J]. Journal of Engineering Design, 2024: 1-26. (IF:2.5; JCR Q1, ESI Highly Cited Paper)
--	Fu T, Li P, **Liu S***. An imbalanced small sample slab defect recognition method based on image generation[J]. Journal of Manufacturing Processes, 2024, 118: 376-388. (IF: 6.1; JCR Q2)
--	Fu T, **Liu S***, Li P. Intelligent smelting process, management system: Efficient and intelligent management strategy by incorporating large language model[J]. Frontiers of Engineering Management, 2024: 1-17. (IF:9.1; JCR Q1)
--	Fu T, Li P, **Liu S***. A method for quality inspection of continuous casting billet based on infrared flaw detection and two-dimensional image[J]. IEEE Transactions on Instrumentation and Measurement, 2024: 1-14. (IF: 5.6; JCR Q1)
--	Song J, **Liu S**, Ma T, et al. Resilient digital twin modeling: A transferable approach[J]. Advanced Engineering Informatics, 2023, 58: 102148. (IF: 8; JCR Q1)
--	Shen X, **Liu S**, Zhang C, et al. Intelligent material distribution and optimization in the assembly process of large offshore crane lifting equipment[J]. Computers & Industrial Engineering, 2021, 159: 107496. (IF: 6.7; JCR Q1)
--	Xu M, **Liu S**, Shen H, et al. Process-oriented unstable state monitoring and strategy recommendation for burr suppression of weak rigid drilling system driven by digital twin[J]. The International Journal of Advanced Manufacturing Technology, 2022: 1-17. (IF: 2.9; JCR Q2)
--	Shen X, **Liu S**, Zhou B, et al. Digital Twin-Driven Reinforcement Learning Method for Marine Equipment Vehicles Scheduling Problem[J]. IEEE Transactions on Automation Science and Engineering, 2023. (IF: 5.9; JCR Q2)
--	Sun X, **Liu S**, Bao J, et al. A performance prediction method for a high-precision servo valve supported by digital twin assembly-commissioning[J]. Machines, 2021, 10(1): 11. (IF: 2.6; JCR Q2)
--	Sun X, Zhang R, **Liu S**, et al. A digital twin-driven human-robot collaborative assembly-commissioning method for complex products[J]. The International Journal of Advanced Manufacturing Technology, 2022: 1-14. (IF: 2.9; JCR Q1)
--	Sun X, Bao J, Li J, **Liu S**, et al. A digital twin-driven approach for the assembly-commissioning of high precision products[J]. Robotics and Computer-Integrated Manufacturing, 2020, 61: 101839. (IF: 9.1; JCR Q1)
--	Lv J, Zhang R, Li X, **Liu S**, et al. A Multimodality Scene Graph Generation Approach for Robust Human-Robot Collaborative Assembly Visual Relationship Representation[J]. IEEE Transactions on Industrial Informatics, 2023. (IF: 12.3; JCR Q1)
--	Pang J, Zheng P, Li S, **Liu S**. A verification-oriented and part-focused assembly monitoring system based on multi-layered digital twin[J]. Journal of Manufacturing Systems, 2023, 68: 477-492. (IF: 12.2; JCR Q1)
--	Qu W, Li J, Zhang R, **Liu S**, et al. Adaptive planning of human-robot collaborative disassembly for end-of-life lithium-ion batteries based on digital twin[J]. Journal of Intelligent Manufacturing, 2023: 1-23. (IF: 8.3; JCR Q1)
--	Zhang R, Lv Q, Li J, et al. A reinforcement learning method for human-robot collaboration in assembly tasks[J]. Robotics and Computer-Integrated Manufacturing, 2022, 73: 102227. (IF: 9.1; JCR Q1)
+- **Liu S**, Bao J, Lu Y, et al. Digital twin modeling method based on biomimicry for machining aerospace components[J]. Journal of Manufacturing Systems, 2021, 58: 180-195. <span style="color:#3399CC;"><span style="color:#3399CC;">**IF: 12.2; JCR Q1,**</span> <span style="color:#F77B00;">**ESI Highly Cited Paper**</span>
+-	**Liu S**, Bao J, Zheng P. A review of digital twin-driven machining: From digitization to intellectualization[J]. Journal of Manufacturing Systems, 2023, 67: 361-378. <span style="color:#3399CC;"><span style="color:#3399CC;">**IF: 12.2; JCR Q1,**</span> <span style="color:#F77B00;">**ESI Highly Cited Paper**</span>
+-	**Liu S**, Lu Y, Li J, et al. A blockchain-based interactive approach between digital twin-based manufacturing systems[J]. Computers & Industrial Engineering, 2023, 175: 108827. <span style="color:#3399CC;">**IF: 6.7; JCR Q1,**</span> <span style="color:#F77B00;">**ESI Highly Cited Paper**</span>
+-	**Liu S**, Lu Y, Shen X, et al. A digital thread-driven distributed collaboration mechanism between digital twin manufacturing units[J]. Journal of Manufacturing Systems, 2023, 68: 145-159. <span style="color:#3399CC;">**IF: 12.2; JCR Q1,**</span> <span style="color:#F77B00;">**ESI Highly Cited Paper**</span>
+-	**Liu S**, Zheng P, Bao J. Digital Twin-based manufacturing system: a survey based on a novel reference model[J]. Journal of Intelligent Manufacturing, 2023: 1-30. <span style="color:#3399CC;">**IF: 5.9; JCR Q1**</span>
+-	**Liu S**, Zheng P, Xia L, et al. A dynamic updating method of digital twin knowledge model based on fused memorizing-forgetting model[J]. Advanced Engineering Informatics, 2023, 57: 102115. <span style="color:#3399CC;">**IF: 8; JCR Q1**</span>
+-	**Liu S**, Sun Y, Zheng P, et al. Establishing a reliable mechanism model of the digital twin machining system: An adaptive evaluation network approach[J]. Journal of Manufacturing Systems, 2022, 62: 390-401. <span style="color:#3399CC;">**IF: 12.2; JCR Q1**</span>
+-	**Liu S**, Lu Y, Zheng P, et al. Adaptive reconstruction of digital twins for machining systems: A transfer learning approach[J]. Robotics and Computer-Integrated Manufacturing, 2022, 78: 102390. <span style="color:#3399CC;">**IF: 9.1; JCR Q1**</span>
+-	**Liu S**, Lu Y, Li J, et al. Multi-scale evolution mechanism and knowledge construction of a digital twin mimic model[J]. Robotics and Computer-Integrated Manufacturing, 2021, 71: 102123. <span style="color:#3399CC;">**IF: 9.1; JCR Q1**</span>
+-	**Liu S**, Lu S, Li J, et al. Machining process-oriented monitoring method based on digital twin via augmented reality[J]. The International Journal of Advanced Manufacturing Technology, 2021, 113: 3491-3508. <span style="color:#3399CC;">**IF: 2.9; JCR Q2**</span>
+-	Zheng H, **Liu S**, Zhang H, et al. Visual-triggered contextual guidance for lithium battery disassembly: a multi-modal event knowledge graph approach[J]. Journal of Engineering Design, 2024: 1-26. <span style="color:#3399CC;">**IF:2.5; JCR Q1,**</span> <span style="color:#F77B00;">**ESI Highly Cited Paper**</span>
+-	Fu T, **Liu S**, Li P. Digital twin-driven smelting process management method for converter steelmaking[J]. Journal of Intelligent Manufacturing, 2024: 1-17. <span style="color:#3399CC;">**IF: 5.9; JCR Q1**</span>
+-	Fu T, Li P, **Liu S**. An imbalanced small sample slab defect recognition method based on image generation[J]. Journal of Manufacturing Processes, 2024, 118: 376-388. <span style="color:#3399CC;">**IF: 6.1; JCR Q2**</span>
+-	Fu T, **Liu S***, Li P. Intelligent smelting process, management system: Efficient and intelligent management strategy by incorporating large language model[J]. Frontiers of Engineering Management, 2024: 1-17. <span style="color:#3399CC;">**IF:9.1; JCR Q1**</span>
+-	Fu T, Li P, **Liu S**. A method for quality inspection of continuous casting billet based on infrared flaw detection and two-dimensional image[J]. IEEE Transactions on Instrumentation and Measurement, 2024: 1-14. <span style="color:#3399CC;">**IF: 5.6; JCR Q1**</span>
+-	Song J, **Liu S**, Ma T, et al. Resilient digital twin modeling: A transferable approach[J]. Advanced Engineering Informatics, 2023, 58: 102148. <span style="color:#3399CC;">**IF: 8; JCR Q1**</span>
+-	Shen X, **Liu S**, Zhang C, et al. Intelligent material distribution and optimization in the assembly process of large offshore crane lifting equipment[J]. Computers & Industrial Engineering, 2021, 159: 107496. <span style="color:#3399CC;">**IF: 6.7; JCR Q1**</span>
+-	Xu M, **Liu S**, Shen H, et al. Process-oriented unstable state monitoring and strategy recommendation for burr suppression of weak rigid drilling system driven by digital twin[J]. The International Journal of Advanced Manufacturing Technology, 2022: 1-17. <span style="color:#3399CC;">**IF: 2.9; JCR Q2**</span>
+-	Shen X, **Liu S**, Zhou B, et al. Digital Twin-Driven Reinforcement Learning Method for Marine Equipment Vehicles Scheduling Problem[J]. IEEE Transactions on Automation Science and Engineering, 2023. <span style="color:#3399CC;">**IF: 5.9; JCR Q2**</span>
+-	Sun X, **Liu S**, Bao J, et al. A performance prediction method for a high-precision servo valve supported by digital twin assembly-commissioning[J]. Machines, 2021, 10(1): 11. <span style="color:#3399CC;">**IF: 2.6; JCR Q2**</span>
+-	Sun X, Zhang R, **Liu S**, et al. A digital twin-driven human-robot collaborative assembly-commissioning method for complex products[J]. The International Journal of Advanced Manufacturing Technology, 2022: 1-14. <span style="color:#3399CC;">**IF: 2.9; JCR Q1**</span>
+-	Sun X, Bao J, Li J, **Liu S**, et al. A digital twin-driven approach for the assembly-commissioning of high precision products[J]. Robotics and Computer-Integrated Manufacturing, 2020, 61: 101839. <span style="color:#3399CC;">**IF: 9.1; JCR Q1**</span>
+-	Lv J, Zhang R, Li X, **Liu S**, et al. A Multimodality Scene Graph Generation Approach for Robust Human-Robot Collaborative Assembly Visual Relationship Representation[J]. IEEE Transactions on Industrial Informatics, 2023. <span style="color:#3399CC;">**IF: 12.3; JCR Q1**</span>
+-	Pang J, Zheng P, Li S, **Liu S**. A verification-oriented and part-focused assembly monitoring system based on multi-layered digital twin[J]. Journal of Manufacturing Systems, 2023, 68: 477-492. <span style="color:#3399CC;">**IF: 12.2; JCR Q1**</span>
+-	Qu W, Li J, Zhang R, **Liu S**, et al. Adaptive planning of human-robot collaborative disassembly for end-of-life lithium-ion batteries based on digital twin[J]. Journal of Intelligent Manufacturing, 2023: 1-23. <span style="color:#3399CC;">****IF: 8.3; JCR Q1**</span>
+-	Zhang R, Lv Q, Li J, et al. A reinforcement learning method for human-robot collaboration in assembly tasks[J]. Robotics and Computer-Integrated Manufacturing, 2022, 73: 102227. <span style="color:#3399CC;">**IF: 9.1; JCR Q1**</span>
 -	**刘世民**, 孙学民, 陆玉前, 等. 知识驱动的加工产品数字孪生拟态建模方法[J]. 机械工程学报, 2022, 57(23): 182-194.
 -	**刘世民**, 王海超, 鲍劲松, 等. 面向工序建模的特征 MBD 设计信息提取方法[J]. 东华大学学报 (自然科学版), 2018, 44(4): 532G540.
 -	孙学民, **刘世民**, 申兴旺, 等. 数字孪生驱动的高精密产品智能化装配方法[J]. 计算机集成制造系统, 2022, 28(6): 1704.
@@ -139,12 +139,12 @@ I have served as a session organizer and chair for the 3rd International Confere
 
 <span style="color:#043361;">Projects</span>
 ======
-- <span style="color:#006699;">[广东省区域联合基金-青年基金项目]</span> 大规模定制化范式下数字孪生制造车间的分布式柔性协作机制研究“，主持人
--	<span style="color:#006699;">[博士研究生学位论文创新项目]</span> 面向数控机加的数字孪生拟态、控制、进化机理研究, CUSF-DH-D-2020056，主持人
--	<span style="color:#006699;">[深圳市科技创新委员会基础研究项目]</span> 面向大规模个性化认知生产的数字孪生制造系统研究，共同主持人
--	<span style="color:#006699;">[21/22 理大超精密加工技术国家重点实验室部门一般研究基金(DGRF)]</span> 基于认知数字孪生的智能超精密加工系统，主要参与人
--	<span style="color:#006699;">[2019年国家科技部重点研发计划]</span> 面向纺织服装产业集聚区域的网络协同制造集成技术研究与示范, 2019YFB1706300，参与
--	<span style="color:#006699;">[2018年工信部智能制造专项项目]</span> 基于边缘计算的固体火箭发动机异地协同制造工厂内集成应用新模式，主要参与人
--	<span style="color:#006699;">[2017年工信部智能制造专项项目]</span> 航天关键结构件制造工业物联应用标准研究与试验验证，主要参与人
--	<span style="color:#006699;">[军委装备发展部科研“十三五”装备预研共用技术课题]</span> 基于全三维模型的武器装备设计制造集成技术与系统应用验证，主要参与人
--	<span style="color:#006699;">[2017年上海市科委科研计划项目]</span> 基于CPS的军用特种车智能制孔机器人系统及示范应用，主要参与人
+- <span style="color:#006699;">**[广东省区域联合基金-青年基金项目]**</span> 大规模定制化范式下数字孪生制造车间的分布式柔性协作机制研究“，主持人
+-	<span style="color:#006699;">**[博士研究生学位论文创新项目]**</span> 面向数控机加的数字孪生拟态、控制、进化机理研究, CUSF-DH-D-2020056，主持人
+-	<span style="color:#006699;">**[深圳市科技创新委员会基础研究项目]**</span> 面向大规模个性化认知生产的数字孪生制造系统研究，共同主持人
+-	<span style="color:#006699;">**[21/22 理大超精密加工技术国家重点实验室部门一般研究基金(DGRF)]**</span> 基于认知数字孪生的智能超精密加工系统，主要参与人
+-	<span style="color:#006699;">**[2019年国家科技部重点研发计划]**</span> 面向纺织服装产业集聚区域的网络协同制造集成技术研究与示范, 2019YFB1706300，参与
+-	<span style="color:#006699;">**[2018年工信部智能制造专项项目]**</span> 基于边缘计算的固体火箭发动机异地协同制造工厂内集成应用新模式，主要参与人
+-	<span style="color:#006699;">**[2017年工信部智能制造专项项目]**</span> 航天关键结构件制造工业物联应用标准研究与试验验证，主要参与人
+-	<span style="color:#006699;">**[军委装备发展部科研“十三五”装备预研共用技术课题]**</span> 基于全三维模型的武器装备设计制造集成技术与系统应用验证，主要参与人
+-	<span style="color:#006699;">**[2017年上海市科委科研计划项目]**</span> 基于CPS的军用特种车智能制孔机器人系统及示范应用，主要参与人
