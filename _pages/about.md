@@ -11,13 +11,15 @@ I am a postdoctoral researcher in the Department of Industrial and Systems Engin
 
 My research interests include digital twin (DT) driven machining processes, bionic digital manufacturing, and smart manufacturing. Since 2019, I have been exploring the theory, technology, and applications of digital twins in the field of machining, building a strong foundation in both theory and practice.
 
-During my academic career, I have participated in several key projects, including those funded by the Ministry of Industry and Information Technology's Intelligent Manufacturing Special Project, the Shanghai Science and Technology Commission, and the Doctoral Innovation Fund. I am also the principal investigator of a Youth Project funded by the Guangdong Provincial Joint Fund. I have published over 30 papers, including 10 first-author papers in SCI journals, 5 corresponding author papers, and 5 papers selected as ESI Highly Cited Papers. Additionally, I have filed more than 10 patents, with 9 granted.
+I have participated in several key projects, including those funded by the Ministry of Industry and Information Technology's Intelligent Manufacturing Special Project, the Shanghai Science and Technology Commission, and the Doctoral Innovation Fund. I am also the principal investigator of a Youth Project funded by the Guangdong Provincial Joint Fund. 
+
+I have published over 30 papers, including 10 first-author papers in SCI journals, 5 corresponding author papers, and 5 papers selected as ESI Highly Cited Papers. Additionally, I have filed more than 10 patents, with 9 granted.
 
 I have served as a session organizer and chair for the 3rd International Conference on Digital Twins, as well as a member of the first executive committee of the Digital Twin Young Scholars Committee (China). I have been invited to give keynote speeches at prestigious conferences such as IMCC 2023 and DigiTwin 2022. I also serve as a reviewer for numerous international journals, including IEEE TII, IEEE SMC, JIM, TRJ, IJCIM, JED, SR, ES, and VR&IH.
 
 <br>
 
-Education and Work Experience
+<span style="color:#043361;">Education and Work Experience</span>
 ======
 - **Postdoctoral Researcher, Hong Kong Polytechnic University** (2022-present)  
   - Department: Industrial and Systems Engineering  
@@ -35,6 +37,7 @@ Education and Work Experience
 
 <span style="color:#043361;">Honors</span>
 ======
+
 - **Outstanding Graduate, Donghua University** (March 2023)  
 - **Tang Xiangqian Social Scholarship, 2020-2021 Academic Year** (November 2021)  
 - **Excellent Student Award, 2020-2021 Academic Year** (November 2021)  
@@ -46,7 +49,7 @@ Education and Work Experience
 
 <br>
 
-Academic Appointments
+<span style="color:#043361;">Academic Appointments</span>
 ======
 - Organizer and Chair, "Digital Twin-Driven Manufacturing Systems" Session, 3rd International Conference on Digital Twins (2023)  
 - Youth Speaker, 2nd International Conference on Digital Twins (2023)  
@@ -58,14 +61,14 @@ Academic Appointments
 
 <br>
 
-Publications
+<span style="color:#043361;">Publications</span>
 ======
 
-Books
+<span style="color:#043361;">Books</span>
 ------
 -	Sun X, Liu S, Gu X, et al. Multi-scale Online Monitoring Method of Aerospace Products Assembly Workshop Based on Digital Twin[M]//Digital Twins for Digital Transformation: Innovation in Industry. Cham: Springer International Publishing, 2022: 23-40.
 
-Journal Articles
+<span style="color:#043361;">Journal Articles</span>
 ------
 - Liu S, Bao J, Lu Y, et al. Digital twin modeling method based on biomimicry for machining aerospace components[J]. Journal of Manufacturing Systems, 2021, 58: 180-195. (IF: 12.2; JCR Q1, ESI Highly Cited Paper)
 -	Liu S, Bao J, Zheng P. A review of digital twin-driven machining: From digitization to intellectualization[J]. Journal of Manufacturing Systems, 2023, 67: 361-378. (IF: 12.2; JCR Q1, ESI Highly Cited Paper)
@@ -102,7 +105,7 @@ Journal Articles
 -	胡富琴, 杨芸, 刘世民, 等. 航天薄壁件旋压成型数字孪生高保真建模方法[J]. 计算机集成制造系统, 2022, 28(5): 1282.
 -	丁志昆, 孙奕程, 段亮亮, 刘世民 等. 基于数字孪生的增强现实多人协作装配[J]. 计算机集成制造系统, 2023, 29(6): 2019.
 
-Conference Papers
+<span style="color:#043361;">Conference Papers</span>
 ------
 -	Liu S, Shen H, Li J, et al. An adaptive evolutionary framework for the decision-making models of digital twin machining system[C]//2021 IEEE 17th International Conference on Automation Science and Engineering (CASE). IEEE, 2021: 771-776.
 -	Shen X, Liu S, Zhou B, et al. Digital twin-based scheduling method for marine equipment material transportation vehicles[C]//2022 IEEE 18th International Conference on Automation Science and Engineering (CASE). IEEE, 2022: 100-105.
@@ -111,7 +114,7 @@ Conference Papers
 
 <br>
 
-Patents
+<span style="color:#043361;">Patents</span>
 ======
 -	鲍劲松 刘世民 孙学民 许敏俊 沈慧 丁志昆 顾星海. 一种基于增量模型的数字孪生系统协同进化方法. 申请号：ZL 202110883308.5 (授权) 2024 .02 .02
 -	鲍劲松 刘世民 许敏俊 孙学民 沈慧 丁志昆. 一种基于数字孪生的加工过程自适应控制方法. 2021 .10 .25 专利号: CN 113985814 A (授权)
@@ -125,7 +128,7 @@ Patents
 
 <br>
 
-Software Copyrights
+<span style="color:#043361;">Software Copyrights</span>
 ======
 -	航天结构件工业物联数据接口软件（登记号：2018SR1031847）
 -	航天结构件工业物联网支持下的三维CAPP系统（登记号：2018SR1031856）
@@ -133,7 +136,7 @@ Software Copyrights
 
 <br>
 
-Projects
+<span style="color:#043361;">Projects</span>
 ======
 - 大规模定制化范式下数字孪生制造车间的分布式柔性协作机制研究, 广东省区域联合基金-青年基金项目, 主持人
 -	面向数控机加的数字孪生拟态、控制、进化机理研究, 博士研究生学位论文创新项目, 项目编号：CUSF-DH-D-2020056，主持人
