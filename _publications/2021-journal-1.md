@@ -2,7 +2,7 @@
 title: "Digital twin modeling method based on biomimicry for machining aerospace components"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-paper-title-number-1
+permalink: /publication/2021-journal-1
 excerpt: ''
 date: ''
 venue: ''
