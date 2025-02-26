@@ -56,6 +56,7 @@ Academic Appointments
 
 Publications
 ======
+
 Books
 ------
 -	Sun X, Liu S, Gu X, et al. Multi-scale Online Monitoring Method of Aerospace Products Assembly Workshop Based on Digital Twin[M]//Digital Twins for Digital Transformation: Innovation in Industry. Cham: Springer International Publishing, 2022: 23-40.
