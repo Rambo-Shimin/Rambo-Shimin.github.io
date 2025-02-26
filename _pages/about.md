@@ -15,6 +15,7 @@ During my academic career, I have participated in several key projects, includin
 
 I have served as a session organizer and chair for the 3rd International Conference on Digital Twins, as well as a member of the first executive committee of the Digital Twin Young Scholars Committee (China). I have been invited to give keynote speeches at prestigious conferences such as IMCC 2023 and DigiTwin 2022. I also serve as a reviewer for numerous international journals, including IEEE TII, IEEE SMC, JIM, TRJ, IJCIM, JED, SR, ES, and VR&IH.
 
+<br>
 
 Education and Work Experience
 ======
@@ -30,8 +31,9 @@ Education and Work Experience
   - Major: Mechanical Design, Manufacturing, and Automation  
   - Supervisor: Professor Yu Zhuqing  
 
+<br>
 
-Honors
+<font color="#043361">Honors</font>
 ======
 - **Outstanding Graduate, Donghua University** (March 2023)  
 - **Tang Xiangqian Social Scholarship, 2020-2021 Academic Year** (November 2021)  
@@ -42,6 +44,7 @@ Honors
 - **National Inspirational Scholarship** (2015)  
 - **National Inspirational Scholarship** (2013)
 
+<br>
 
 Academic Appointments
 ======
@@ -53,6 +56,7 @@ Academic Appointments
 - Invited Speaker, IMCC 2023 International Manufacturing Conference  
 - Invited Speaker, 2024 Working Meeting of the Digital Li Sheng Professional Committee, China Society for Graphics and Digital Twin Frontier Technology and Application Model Seminar 
 
+<br>
 
 Publications
 ======
@@ -105,6 +109,7 @@ Conference Papers
 -	Liu S, Zheng P. A Novel Bionic Digital Twin-Based Manufacturing System Toward the Mass Customization Paradigm[C]//2023 IEEE 19th International Conference on Automation Science and Engineering (CASE). IEEE, 2023: 1-6.
 -	Liu S, Zheng P, Shang S. A novel bionic decision-making mechanism for digital twin-based manufacturing system[J]. Manufacturing Letters, 2023, 35: 127-131.
 
+<br>
 
 Patents
 ======
@@ -118,6 +123,7 @@ Patents
 -	鲍劲松 丁鹏鹏 刘世民 陈治宇 孙习武 陈长江 翁海红. 航天结构件工业物联标识高可靠解析系统 2021.10.30 专利号 CN109451083A (授权)
 -	鲍劲松 张荣 孙学民 刘世民 李婕. 一种产品数字孪生模型模拟方法及系统. 2021 .11 .15 专利号: CN 114386184 A (公开)
 
+<br>
 
 Software Copyrights
 ======
@@ -125,6 +131,7 @@ Software Copyrights
 -	航天结构件工业物联网支持下的三维CAPP系统（登记号：2018SR1031856）
 -	基于工业物联网的航天结构件尺寸精度控制系统（登记号：2018SR1015133）
 
+<br>
 
 Projects
 ======
