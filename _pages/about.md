@@ -33,7 +33,7 @@ Education and Work Experience
 
 <br>
 
-<font color="#043361">Honors</font>
+<span style="color:#043361;">Honors</span>
 ======
 - **Outstanding Graduate, Donghua University** (March 2023)  
 - **Tang Xiangqian Social Scholarship, 2020-2021 Academic Year** (November 2021)  
